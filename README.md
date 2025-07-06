@@ -1,6 +1,6 @@
 ---
 title: "STAT317 FINAL PROJECT"
-author: "RAMEEN"
+author: "RAMEEN JALIL"
 date: "2025-01-22"
 output:
   
